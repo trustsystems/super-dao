@@ -1,0 +1,75 @@
+################
+# Eclipse IDE
+################
+/.externalToolBuilders
+/.settings
+/.classpath
+/.project
+/.metadata
+
+################
+#IntelliJ IDEA
+################
+/.idea
+*.iml
+*.iws
+*.eml
+
+################
+# NetBeans
+################
+/nb-configuration.xml
+
+################
+# STS IDE
+################
+/.springBeans
+
+################
+# Packages Files
+################
+*.jar
+*.war
+*.ear
+
+################
+# Maven
+################
+/log
+/target
+
+################
+# Gradle
+################
+/build
+/*/build
+/*/*/build
+/*/*/*/build
+.gradle
+
+################
+# JRebel
+################
+/src/main/resources/rebel.xml
+
+################
+# OS Files
+################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+################
+# Others Files
+################
+.clover
+activemq-data
+*.hsp
+atlassian-ide-plugin*.xml
+/out
+/overlays
+
